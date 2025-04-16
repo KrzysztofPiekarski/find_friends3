@@ -3,5 +3,4 @@ pandas
 pycaret
 plotly
 python-dotenv
-qdrant-client
 pydub
